@@ -1,2 +1,2 @@
 # SearchMovieApp
-Node.js and Express project
+This is a simple movie searching app to learn using APIs in Node.js, api used is OMDb API.
